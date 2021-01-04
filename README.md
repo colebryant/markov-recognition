@@ -1,5 +1,5 @@
 # markov-recognition
-Speaker recognition system utilizing Markov models (as well as a custom hash table). Final assignment for Python Programming course at UChicago.
+Speaker recognition system utilizing Markov models (as well as a custom hash table). Final project for Python Programming course at UChicago.
 * This program utilizes Markov models to determine which of two given speakers is more likely to have spoken the unknown text.
 
 To run:
